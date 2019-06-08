@@ -1,2 +1,3 @@
 # ProjectWorks
-word2vec implementation on sentiment analysis
+GENSIM IMPLEMENTATION OF LDA FOR TOPIC MODELLING ON NLTK'S BROWN CORPUS
+
