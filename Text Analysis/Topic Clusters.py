@@ -41,7 +41,7 @@ for text in data:
 #Creating a Dictionary of the words in brown corpus
 dictionary= corpora.Dictionary(tokenized_data)
 
-#----------------------------Creating a bag fo words with the corpus-------------------
+#----------------------------Creating a bag of words with the corpus-------------------
 Bow= [dictionary.doc2bow(text)for text in tokenized_data]
 pickle.dump(Bow,open('Bow.pkl','wb'))
 dictionary.save('dictionary.gensim')
