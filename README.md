@@ -1,4 +1,4 @@
-# ProjectWorks
+# Sentiment Analysis with Word Embedding
 Twitter Sentiment Analysis of Establishment of US Military Base in Ghana. 
 The published paper for this work can be found at : https://ieeexplore.ieee.org/document/8506717
 
